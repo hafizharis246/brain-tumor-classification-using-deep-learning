@@ -1,5 +1,3 @@
-# brain-tumor-classification-using-deep-learning
-
 # Brain Tumor Detection using Transfer Learning
 
 ## Project state
