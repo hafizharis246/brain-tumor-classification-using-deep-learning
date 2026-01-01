@@ -1,4 +1,4 @@
-# Brain Tumor Detection using Transfer Learning
+# Brain Tumor Detection using Deep Learning
 
 ## Project state
 
